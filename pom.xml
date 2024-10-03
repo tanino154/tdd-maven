@@ -3,7 +3,7 @@
 
   <groupId>it.corso</groupId>
   <artifactId>calculator</artifactId>
-  <version>1</version>
+  <version>2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>calculator</name>
